@@ -1,1 +1,5 @@
 #go mod init goland-crud-gin
+Install gin
+#go get -u github.com/gin-gonic/gin 
+install Gorm
+#go get gorm.io/gorm
